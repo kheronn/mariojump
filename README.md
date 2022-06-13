@@ -1,9 +1,10 @@
 # Código do jogo Mario Run
 
+<img src="/images/print.png">
 
 ## 🚀 Começando
 
-Acesse o Classroom da turma para baixos os código iniciais, a estrutura e as imagens
+Acesse o Classroom da turma para baixar os código iniciais, as pastas e as imagens
 
 
 ## 🛠️ Construído com
